@@ -1,0 +1,26 @@
+{
+  "name": "pufism",
+  "version": "0.0.1",
+  "description": "Provisioning utilities for idempotent server management",
+  "keywords": [
+    "provisioning",
+    "devops"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritola/pufism.git"
+  },
+  "author": "Heikki Ritola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ritola/pufism/issues"
+  },
+  "homepage": "https://github.com/ritola/pufism#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
