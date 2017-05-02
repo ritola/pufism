@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/ritola/pufism#readme",
   "dependencies": {
-    "bluebird": "^3.5.0"
+    "bluebird": "^3.5.0",
+    "child-process-promise": "^2.2.1",
+    "promise-exec": "^0.1.0",
+    "ramda": "^0.23.0"
   }
 }
